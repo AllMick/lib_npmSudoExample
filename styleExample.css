@@ -1,0 +1,22 @@
+ 
+ .color_text {
+    color: crimson;
+  }
+
+  .background {
+    background-color:ivory ;
+  }
+
+  .flex {
+    display: flex;
+    align-items: center;
+  }
+
+  .p_relative {
+    position: relative;
+  }
+
+  .p_absolute {
+    position: absolute;
+  }
+  
