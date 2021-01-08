@@ -1,0 +1,20 @@
+{
+  "name": "lib_npmsudoexample",
+  "version": "1.0.3",
+  "description": "lib for sudo (example)",
+  "main": "index.js",
+  "scripts": {
+    "test": "lib_sudo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllMick/lib_npmSudoExample.git"
+  },
+  "author": "sudo (AllMick)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllMick/lib_npmSudoExample/issues"
+  },
+  "homepage": "https://github.com/AllMick/lib_npmSudoExample#readme",
+  "keywords": []
+}
